@@ -4,8 +4,8 @@ metadata:
   name: http-app-route
   namespace: boutique-app
 spec:
-  hostnames:
-    - "app.devopsdock.site"
+  hostnames: 
+    - "app.sandeepradeep.online"
   parentRefs:
   - group: gateway.networking.k8s.io
     namespace: default
